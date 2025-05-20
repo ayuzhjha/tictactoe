@@ -1,8 +1,6 @@
-
-
 # Tic Tac Toe
 
-(./image.png)
+![Tic Tac Toe Banner](https://upload.wikimedia.org/wikipedia/commons/3/32/Tic_tac_toe.svg)
 
 A simple console-based Tic Tac Toe game written in C.
 
